@@ -1,0 +1,15 @@
+.foot{
+    width: 100%;
+    height: auto;
+    background-color:rgba(38, 38, 38, 1) ;
+}
+.mainfoot{
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content:flex-start;
+}
+
+.foot1{
+    margin-left: 200px;
+}
